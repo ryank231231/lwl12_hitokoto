@@ -11,7 +11,7 @@ For: 不限
 */
 function lwl12_hitokoto_head()
 {
-    echo '<script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script>';
+    echo '<script type="text/javascript" src="https://v1.hitokoto.cn/?encode=js&charset=utf-8"></script>';
     echo "<style> .hitokoto{ font-weight:bold; } </style>";
     
 }
